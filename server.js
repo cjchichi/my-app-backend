@@ -13,6 +13,6 @@ server.use((req, res, next) => {
     res.header('Access-Control-Allow-Headers', '*')
     next()
 })
-server.listen(process.env.PORT || 5000, () => {
+server.listen(process.env.PORT || 5500, () => {
     console.log('JSON Server is running')
 })
