@@ -1,37 +1,37 @@
 {
   "tasks": [
     {
-      "id": "2c38",
+      "id": "1",
       "text": "code challenge",
       "completed": true
     },
     {
-      "id": "8214",
+      "id": "2",
       "text": "writing a project pitch",
       "completed": true
     },
     {
-      "id": "474d",
+      "id": "3",
       "text": "project presentation",
       "completed": false
     },
     {
-      "id": "83b1",
+      "id": "4",
       "text": "math",
       "completed": true
     },
     {
-      "id": "62b8",
+      "id": "5",
       "text": "deploy project",
       "completed": false
     },
     {
-      "id": "6c37",
+      "id": "6",
       "text": "render dbjson",
       "completed": false
     },
     {
-      "id": "0096",
+      "id": "7",
       "text": "project presentation",
       "completed": false
     }
