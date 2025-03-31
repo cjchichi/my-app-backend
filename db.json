@@ -3,44 +3,37 @@
     {
       "id": "2c38",
       "text": "code challenge",
-      "completed": true,
-      "delete":"task"
+      "completed": true
     },
     {
       "id": "8214",
       "text": "writing a project pitch",
-      "completed": true,
-      "delete":"task"
+      "completed": true
     },
     {
       "id": "474d",
       "text": "project presentation",
-      "completed": false,
-      "delete":"task"
+      "completed": false
     },
     {
       "id": "83b1",
       "text": "math",
-      "completed": true,
-      "delete":"task"
+      "completed": true
     },
     {
       "id": "62b8",
       "text": "deploy project",
-      "completed": false,
-      "delete":"task"
+      "completed": false
     },
     {
       "id": "6c37",
       "text": "render dbjson",
-      "completed": false,
-      "delete":"task"
+      "completed": false
     },
     {
       "id": "0096",
       "text": "project presentation",
-      "completed": false,
-      "delete":"task"
+      "completed": false
     }
   ]
 }
